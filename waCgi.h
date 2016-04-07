@@ -123,7 +123,6 @@ class Cookie {
 
 	map<string,string> _cookies;		
 };
-
 } // namespace
 
 #endif //_WEBAPPLIB_CGI_H_
