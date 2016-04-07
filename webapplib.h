@@ -42,6 +42,8 @@
 #include "waTextFile.h"
 #include "waConfigFile.h"
 
+//#include "waTool.h"
+
 // 编译时使用 -D_WEBAPPLIB_NOMYSQL 参数则不包含 MysqlCleint 模块
 #ifndef _WEBAPPLIB_NOMYSQL
 #include "waMysqlClient.h"
